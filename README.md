@@ -4,4 +4,6 @@ NPM : 2201234567
 
 Kelas : PBP A
 
-Hobi : Wall Climbing
+Hobi : Manjat Tembok
+
+Jurusan : Ilmu Sistem Informasi Komputer
